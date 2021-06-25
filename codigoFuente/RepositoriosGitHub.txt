@@ -1,0 +1,5 @@
+El código también se encuentra almacenado en los siguientes repositorios de GitHub:
+
+- Landing page: https://github.com/pablohs1986/miTiempo-landingPage
+- Frontend: https://github.com/pablohs1986/miTiempo-front
+- Backend: https://github.com/pablohs1986/miTiempo-back
